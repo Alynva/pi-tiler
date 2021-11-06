@@ -1,0 +1,22 @@
+{
+  "name": "pi-tiler",
+  "version": "0.0.0",
+  "description": "Rasp PI app controller",
+  "main": "index.js",
+  "bin": {
+    "pi-tiler": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alynva/pi-tiler.git"
+  },
+  "author": "Alisson Nunes <dev@alynva.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alynva/pi-tiler/issues"
+  },
+  "homepage": "https://github.com/Alynva/pi-tiler#readme"
+}
